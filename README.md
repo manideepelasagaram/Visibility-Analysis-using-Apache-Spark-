@@ -1,5 +1,5 @@
-# Visibility-Analysis-using-Bidata-Technologies
-Visibility-Analysis-using-Apache-Spark 
+# Visibility-Analysis-using-Apache-Spark 
+
 
 This project encompasses a comprehensive data processing and analysis task utilizing various Big Data technologies, including Hadoop, PySpark, Pig, and Hive. It is structured into four parts:
 
